@@ -1,6 +1,4 @@
-# avax_grant
-Infra Build() Grant Application
-
+# infraBUIDL() GotCHA Application
 
 
 ## Project description, including goals, expected use cases, and potential benefits for the Avalanche ecosystem;
