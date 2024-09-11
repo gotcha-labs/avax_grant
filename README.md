@@ -45,22 +45,17 @@ These seem to be the most tangible metrics to use in such a setting like ours.
 
 ## Team
 
-**Duarte Fleming (AI Engineer)** - 
+**Duarte Fleming (AI Engineer)** - Duarte is a specialist in AI and has worked in the field for 7+ years. Duarte has been in charge of creating AI models that have been deployed and are currently in use by transportation systems in major European capitals. Duarte brings years of experience in DevOps and infrastructure.  
 
-**Mario Yaksetig (Cryptographer)** - 
+**Mario Yaksetig (Cryptographer)** - Mario is an applied cryptographer specialized in the analysis and design of cryptographic protocols. He has worked with David Chaum, the creator of e-cash and online anonymous communications, on the design of novel protocols for the blockchain space. Mario's L2 work has been cited by Vitalik Buterin and is one of the creators of the quantum secure fallback primitive. Mario also wrote a [paper](https://eprint.iacr.org/2024/552.pdf) on how the Avalanche architecture is great for a blockchain-powered metaverse. Mario has published an attack against a quantum-secure threshold signature scheme proposed by Vitalik Buterin. 
 
-Mario is an applied cryptographer who worked with David Chaum, the creator of e-cash and online anonymous communications, on the design of novel protocols for the blockchain space. Mario's L2 work has been cited by Vitalik Buterin and is one of the creators of the quantum secure fallback primitive. Mario also wrote a [paper](https://eprint.iacr.org/2024/552.pdf) on how the Avalanche architecture is great for a blockchain-powered metaverse. 
-
-
-**John Fountain (Storyboard Artist)** - 
-John has held nearly every key creative position in the field of animation including Producer, Writer, Director, Storyboard Artist, Art Director, Development Artist and Character Designer. He has worked at DISNEY, NICKELODEON, WARNER BROTHERS, MTV, CARTOON NETWORK and several studios overseas. 
+**John Fountain (Storyboard Artist)** - John has held nearly every key creative position in the field of animation including Producer, Writer, Director, Storyboard Artist, Art Director, Development Artist and Character Designer. He has worked at DISNEY, NICKELODEON, WARNER BROTHERS, MTV, CARTOON NETWORK and several studios overseas. 
 
 Fountain was the Supervising Director for Nickelodeon's THE FAIRLY ODDPARENTS and a director for MY LIFE AS A TEENAGE ROBOT. He has also contributed to DORA THE EXPLORER, OH YEAH! CARTOONS!, CHALK ZONE, THE WILD THORNBERRYS, and INVADER ZIM.
 
 Most recently, Fountain directed a series of shorts for CARTOON NETWORK ASIA for their 'Toonix' franchise, as well as a series of shorts for NETFLIX. He also storyboarded for Adult Swim's RICK AND MORTY and animated for the feature film SOUTH PARK : BIGGER, LONGER AND UNCUT.
 
-**Rob Titus (Game Design)**
-Rob is a former developer at Naughty Dog. His work includes:
+**Rob Titus (Game Design)** - Rob is a former developer at Naughty Dog. His work includes:
 
  - Crash Bandicoot 2: Cortex Strikes Back
 
@@ -73,14 +68,14 @@ Rob is a former developer at Naughty Dog. His work includes:
 "I started at Naughty Dog on Crash 2 and I was responsible for objects primarily, modeling, rigging and animation. But, since we were only 11 people at the time, I did background modeling, lighting and texture placement and other art jobs that needed to be done. I worked there for 8 years for Crash 2, 3, CTR and the whole Jak and Daxter series."
 
 
+Feasibility of the proposal: The team is experienced in the design and development of new cryptographic protocols, the UI element is the one to be outsourced. Therefore, the main risk of execution lies on having a very usable UI/UX at the highest level. 
+
 ## Contact details
 You can reach us via email on info@gotcha.land
 
 You can also reach us on Telegram: @myaksetig & @flemingduarte
 
 
-
-Feasibility of the proposal: The team is experienced in the design and development of new cryptographic protocols, the UI element is the one to be outsourced. Therefore, the main risk of execution lies on having a very usable UI/UX at the highest level. 
 
 Additional remarks: The team is based in Cayman Islands, a crypto friendly jurisdiction. The team members are originally from Portugal and Cayman and are not in an OFAC sanctioned jurisdiction. This should result in a smooth KYC process. 
 
