@@ -1,11 +1,10 @@
 # infraBUIDL() GotCHA Application
-
-GotCHA is a novel and fun CAPTCHA platform that wants to disrupt the traditional CAPTCHA space. No one likes to click on traffic lights or stop signs. Things get even worse when you think you have answered properly and a bot tells you (a human), that you have failed to prove (to a robot) that you are a human. We are changing this. 
+In this document, we describe our application to the Avalanche infraBUIDL() Program.
 
 ## Project description, including goals, expected use cases, and potential benefits for the Avalanche ecosystem
+GotCHA is a novel and fun CAPTCHA platform that wants to disrupt the traditional CAPTCHA space. No one likes to click on traffic lights or stop signs. Things get even worse when you think you have answered properly and a bot tells you (a human), that you have failed to prove (to a robot) that you are a human. We are changing this. 
 
-
-Goals: Our goal is to make the Internet a better place where humans are not exploited for work when solving a CAPTCHA and to provide an actual good experience when proving that one is not a robot.  
+Goals: Our goal is to make the Internet a better place where humans are not exploited for work when solving a CAPTCHA and to provide an actual good experience when proving that one is not a robot. We want to create the next generation of CAPTCHAs. We note that decentralized identity solutions are not enough and result in massive friction. By focusing on the CAPTCHAs, we get to provide users with a great experience and no need for a DID or a cryptocurrency wallet. Just a simple proof-of-liveness check by solving a fun challenge. 
 
 Expected use cases: 
 
@@ -13,6 +12,8 @@ Expected use cases:
 - Verifiable credentials for liveness checks (i.e., proof of liveness)
 
 Benefits for the ecosystem: A fully Avalanche powered (fun) CAPTCHA solution to protect any dApp in the ecosystem from bots. 
+
+Why and how are we better?
 
 ## Roadmap
 
